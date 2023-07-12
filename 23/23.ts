@@ -7,7 +7,7 @@ console.log(racingCar == 'subaru') ;
 
 
 const anime = 'initialD';
-console.log("Is anime == 'subaru'? I predict True.");
+console.log("Is anime == 'initialD'? I predict True.");
 console.log(anime == 'initialD') ;
 
 const bestPhonkMusic = 'Kerosene - Slowed';
